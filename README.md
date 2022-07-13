@@ -1,2 +1,2 @@
 # Freshman Year College Coding Assignment
- Coding assignment
+ Selection of assignments during my Freshman Year of College
